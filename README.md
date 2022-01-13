@@ -17,3 +17,5 @@ this is sample radar view
 	        implementation 'com.github.Jasper-Cheng:radarCool:Tag'
 	  }
     
+## what the hell?
+I'm still in novice village,you know...,hell hell hell!
