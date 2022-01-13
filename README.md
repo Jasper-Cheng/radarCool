@@ -14,7 +14,7 @@ this is sample radar view
     2. Add the dependency
     dependencies {
           ...
-	        implementation 'com.github.Jasper-Cheng:radarCool:Tag'
+	        implementation 'com.github.Jasper-Cheng:radarCool:0.0.1'
 	  }
     
 ## what the hell?
